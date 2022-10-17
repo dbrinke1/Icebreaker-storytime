@@ -1,2 +1,2 @@
 # Icebreaker-storytime
-This is a repository for the "icebreaker" group storytime assignment
+This is a repository for the "icebreaker" group storytime assignment for team "kaesekuchen".
