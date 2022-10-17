@@ -1,0 +1,35 @@
+German = English (Some words repeated)
+
+  Flughafen = Airport
+  Hauptstrasse = Main road
+  Brot = Loaf
+  Klimaanlage = Air conditioning
+  Biergarten = Beer garden
+  Lederhose = Leather pants
+  Schloss = Lock
+  Schloss = Lock
+  wettbewerbsfaehig = Competitive
+  Mehlhase = Flour bunny
+  Gebaeck = Pastries
+  Baeckerei = Bakery
+  Hund = Dog
+  Doener = Donor
+  Apfelkuchen = Apple Cake
+  Ratskeller = Council room
+  Rammstein = Ramming stone
+
+Locations
+
+  Raesfeld = a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany
+  Berlin = the capital and largest city of Germany by both area and population
+
+Vehicle manufacturers
+
+  Porsche = a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans, headquartered in Stuttgart, Baden-Württemberg, Germany.
+  BMW = a German multinational manufacturer of performance luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.
+
+Other
+
+  Bratwurst = a type of German sausage made from pork or, less commonly, beef or veal.
+  Dirndel = a feminine dress which originated in German-speaking areas of the Alps.
+  Eltz = a noted German noble family.
